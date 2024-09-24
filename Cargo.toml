@@ -1,0 +1,10 @@
+[package]
+name = "ixo"
+version = "0.1.0"
+edition = "2021"
+keywords = ["io", "async", "parallel", "concurrent"]
+license = "Apache-2.0"
+description = "Functional library for building reliable concurrent systems"
+repository = "https://github.com/tindzk/ixo"
+
+[dependencies]
